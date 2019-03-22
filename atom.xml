@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>薛家骏你看</title>
+  <title>薛家骏请你看</title>
   
-  <subtitle>记录生活</subtitle>
+  <subtitle>个人博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://xuejiajun.github.io/"/>
-  <updated>2017-10-28T00:39:58.000Z</updated>
+  <updated>2019-03-22T08:01:48.567Z</updated>
   <id>https://xuejiajun.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>领导你看</title>
+    <link href="https://xuejiajun.github.io/01-ji-lu-sheng-huo/"/>
+    <id>https://xuejiajun.github.io/01-ji-lu-sheng-huo/</id>
+    <published>2019-03-21T08:55:33.093Z</published>
+    <updated>2019-03-22T08:01:48.567Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;两件小事&quot;&gt;&lt;a href=&quot;#两件小事&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="个人生活" scheme="https://xuejiajun.github.io/categories/%E4%B8%AA%E4%BA%BA%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="个人生活" scheme="https://xuejiajun.github.io/tags/%E4%B8%AA%E4%BA%BA%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -35,34 +61,6 @@
     
     </summary>
     
-    
-  </entry>
-  
-  <entry>
-    <title>typora-vue-theme主题介绍</title>
-    <link href="https://xuejiajun.github.io/01-lian-xi-xue-xi-xie-bo-ke-md/"/>
-    <id>https://xuejiajun.github.io/01-lian-xi-xue-xi-xie-bo-ke-md/</id>
-    <published>2018-09-07T01:25:00.000Z</published>
-    <updated>2019-03-21T10:43:07.468Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;百度（纳斯达克：BIDU）&quot;&gt;&lt;a href=&quot;#百度（纳斯达克：BIDU）&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="Markdown" scheme="https://xuejiajun.github.io/categories/Markdown/"/>
-    
-    
-      <category term="Typora" scheme="https://xuejiajun.github.io/tags/Typora/"/>
-    
-      <category term="Markdown" scheme="https://xuejiajun.github.io/tags/Markdown/"/>
     
   </entry>
   

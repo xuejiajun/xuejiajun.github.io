@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>领导你看</title>
+      <link href="/01-ji-lu-sheng-huo/"/>
+      <url>/01-ji-lu-sheng-huo/</url>
+      
+        <content type="html"><![CDATA[<h2 id="两件小事"><a href="#两件小事" class="headerlink" title="两件小事"></a>两件小事</h2><ol><li>昨天给人家讲，我们英语老师在课堂上讲的内容，结果上午推到下午，下午推到晚上，晚上又推到第二天早上，结果害的人家一个晚上没有关数据。直到今天中午才给人家说，其实没有什么内容，就是关于what make of love, 可能是英语老师说的最后一句话很深情，please cherish each other.<ol start="2"><li>昨天晚上在主楼和同学还在做这个华为的比赛，10点10分的时候问她回寝室了没，就发了这样的一个聊天记录，结果，多说了一个“额”，不知道怎么就生气了呢。哎，猜不到，那就记住。<br><img src="..\\img\\01-记录生活\\01-额.png" alt><br><img src="https://i.imgur.com/DgwDbGs.png" alt></li></ol></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 个人生活 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 个人生活 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/hello-world/"/>
       <url>/hello-world/</url>
@@ -11,33 +36,6 @@
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
       
       
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>typora-vue-theme主题介绍</title>
-      <link href="/01-lian-xi-xue-xi-xie-bo-ke-md/"/>
-      <url>/01-lian-xi-xue-xi-xie-bo-ke-md/</url>
-      
-        <content type="html"><![CDATA[<h2 id="百度（纳斯达克：BIDU）"><a href="#百度（纳斯达克：BIDU）" class="headerlink" title="百度（纳斯达克：BIDU）"></a>百度（纳斯达克：BIDU）</h2><p>全球最大的中文搜索引擎、最大的中文网站。百度愿景是：成为最懂用户，并能帮助人们成长的全球顶级高科技公司。 [1] </p><h3 id="“百度”二字"><a href="#“百度”二字" class="headerlink" title="“百度”二字"></a>“百度”二字</h3><p>来自于八百年前南宋词人辛弃疾的一句词：众里寻他千百度。这句话描述了词人对理想的执着追求。1999年底，身在美国硅谷的李彦宏看到了中国互联网及中文搜索引擎服务的巨大发展潜力，抱着技术改变世界的梦想，他毅然辞掉硅谷的高薪工作，携搜索引擎专利技术，于 2000年1月1日在中关村创建了百度公司。</p><h4 id="百度拥有数万名研发工程师"><a href="#百度拥有数万名研发工程师" class="headerlink" title="百度拥有数万名研发工程师"></a>百度拥有数万名研发工程师</h4><p>这是中国乃至全球最为优秀的技术团队。这支队伍掌握着世界上最为先进的搜索引擎技术，使百度成为中国掌握世界尖端科学核心技术的中国高科技企业，也使中国成为美国、俄罗斯、和韩国之外，全球仅有的4个拥有搜索引擎核心技术的国家之一。</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Markdown </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Typora </tag>
-            
-            <tag> Markdown </tag>
-            
-        </tags>
       
     </entry>
     
